@@ -38,3 +38,13 @@ h5 {
     COLOR: Black; 
     text-shadow: 0px 0px 9px #508AD3;
 }
+
+.textoImagen {
+    border: 2px solid #ec7676;
+    background-color: white;
+}
+h6 {
+    font-family: Black Finger; 
+    font-size: 25px !important; 
+    COLOR: Black;
+}
